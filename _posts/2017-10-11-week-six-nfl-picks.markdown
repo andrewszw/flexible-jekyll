@@ -15,6 +15,13 @@ tags: [Productivity, Workflow] # add tag
         <th>Chase</th>
         <th>Old Man</th>
     </tr>
+    <tr>
+        <th>PHI @ CAR</th>
+        <td>![Panthers]({{site.baseurl}})/assets/img/nfl/carolina_panthers_thumb.png)</td>
+        <td>![Eagles]({{site.baseurl}})/assets/img/nfl/philadelphia_eagles_thumb.png)</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
 </table>
 
 #![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
