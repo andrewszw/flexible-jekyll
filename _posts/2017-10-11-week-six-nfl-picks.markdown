@@ -3,7 +3,7 @@ layout: post
 title: Week 6 NFL Picks
 date: 2017-10-11 15:30:00
 description: Zach, Tyler, Chase, and the Old Man make their picks for week 6 games in the NFL.
-img: # Add image post (optional)
+img: nflweek6.png # Add image post (optional)
 tags: [Sports, NFL] # add tag
 ---
 Below, you will find Zach's, Tyler's, Chase's, and the Old Man's week 6 NFL game picks. Their weekly and overall records will be displayed
@@ -30,14 +30,14 @@ at the bottom of the table, and correct/incorrect picks will be updated at the c
     </tr>
     <tr>
         <th>PHI @ CAR</th>
-        <th class="correct" markdown="1">![Panthers]({{"/assets/img/nfl/carolina_panthers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th class="incorrect" markdown="1">![Eagles]({{"/assets/img/nfl/philadelphia_eagles_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th markdown="1">![Panthers]({{"/assets/img/nfl/carolina_panthers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th markdown="1">![Eagles]({{"/assets/img/nfl/philadelphia_eagles_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
         <td>N/A</td>
         <td>N/A</td>
     </tr>
     <tr>
         <th>CHI @ BAL</th>
-        <th class="correct" markdown="1">![Ravens]({{"/assets/img/nfl/baltimore_ravens_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th markdown="1">![Ravens]({{"/assets/img/nfl/baltimore_ravens_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
         <th markdown="1">![Ravens]({{"/assets/img/nfl/baltimore_ravens_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
         <td>N/A</td>
         <td>N/A</td>
