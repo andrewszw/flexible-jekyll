@@ -6,7 +6,7 @@ description: Zach, Tyler, Chase, and the Old Man make their picks for week 6 gam
 img: # Add image post (optional)
 tags: [Productivity, Workflow] # add tag
 ---
-<table align='center'>
+<table class='test' align='center'>
     <tr>
         <th></th>
         <th>Zach</th>
