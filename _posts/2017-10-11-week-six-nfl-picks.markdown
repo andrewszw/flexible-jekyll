@@ -126,4 +126,18 @@ at the bottom of the table, and correct/incorrect picks will be updated at the c
         <td>N/A</td>
         <td>N/A</td>
     </tr>
+    <tr>
+        <th>Week 6</th>
+        <td>0-0</td>
+        <td>0-0</td>
+        <td>0-0</td>
+        <td>0-0</td>
+    </tr>
+    <tr>
+        <th>Overall</th>
+        <td>47-30</td>
+        <td>47-30</td>
+        <td>50-27</td>
+        <td>44-33</td>
+    </tr>
 </table>
