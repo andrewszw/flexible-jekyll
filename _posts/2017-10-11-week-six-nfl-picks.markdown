@@ -7,9 +7,14 @@ img: # Add image post (optional)
 tags: [Productivity, Workflow] # add tag
 ---
 
-|            | Zach | Tyler | Chase | Old Man |
-| ---------- | ---- | ----- | ----- | ------- |
-| Dal vs Den | Dal  | Dal   | Dal   | Dal     |
-
+<table>
+    <tr>
+        <th></th>
+        <th>Zach</th>
+        <th>Tyler</th>
+        <th>Chase</th>
+        <th>Old Man</th>
+    </tr>
+</table>
 
 #![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
