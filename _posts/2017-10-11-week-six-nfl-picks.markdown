@@ -22,5 +22,3 @@ tags: [Productivity, Workflow] # add tag
         <td>N/A</td>
     </tr>
 </table>
-
-#![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
