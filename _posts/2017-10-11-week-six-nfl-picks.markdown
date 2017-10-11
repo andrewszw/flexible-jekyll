@@ -17,7 +17,7 @@ tags: [Productivity, Workflow] # add tag
     </tr>
     <tr>
         <th>PHI @ CAR</th>
-        <td>{% ![Panthers]({{"/assets/img/nfl/carolina_panthers_thumb.png" | absolute_url}}) %}</td>
+        <td>{% markdown %} ![Panthers]({{"/assets/img/nfl/carolina_panthers_thumb.png" | absolute_url}}) {% endmarkdown %}</td>
         <td>![Eagles]({{site.baseurl}}/assets/img/nfl/philadelphia_eagles_thumb.png)</td>
         <td>N/A</td>
         <td>N/A</td>
