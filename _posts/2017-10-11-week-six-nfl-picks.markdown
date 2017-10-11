@@ -3,7 +3,7 @@ layout: post
 title: Week 6 NFL Picks
 date: 2017-10-11 15:30:00
 description: Zach, Tyler, Chase, and the Old Man make their picks for week 6 games in the NFL.
-img: nflweek6.png # Add image post (optional)
+img: # Add image post (optional)
 tags: [Sports, NFL] # add tag
 ---
 Below, you will find Zach's, Tyler's, Chase's, and the Old Man's week 6 NFL game picks. Their weekly and overall records will be displayed
