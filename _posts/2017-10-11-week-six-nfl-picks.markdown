@@ -12,8 +12,8 @@ at the bottom of the table, and correct/incorrect picks will be updated at the c
     .test {
         border: 1px solid black;
     }
-    th td {
-        padding: 105px;
+    th, td {
+        padding: 10px;
         text-align: center;
     }
 </style>
