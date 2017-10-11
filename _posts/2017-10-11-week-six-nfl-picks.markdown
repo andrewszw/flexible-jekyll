@@ -7,8 +7,9 @@ img: # Add image post (optional)
 tags: [Productivity, Workflow] # add tag
 ---
 
-|    | Zach | Tyler | Chase | Old Man |
-|----|------|-------|-------|---------|
+|            | Zach | Tyler | Chase | Old Man |
+| ---------- | ---- | ----- | ----- | ------- |
+| Dal vs Den | Dal  | Dal   | Dal   | Dal     |
 
 
 #![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
