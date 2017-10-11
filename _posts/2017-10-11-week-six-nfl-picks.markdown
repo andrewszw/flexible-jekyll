@@ -23,5 +23,6 @@ tags: [Productivity, Workflow] # add tag
         <td>N/A</td>
     </tr>
 </table>
+![Panthers]({{site.baseurl}}/assets/img/nfl/carolina_panthers_thumb.png)
 
 #![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
