@@ -7,7 +7,7 @@ img: # Add image post (optional)
 tags: [Productivity, Workflow] # add tag
 ---
 
-<table align='center'>
+<table align='center' markdown='1'>
     <tr>
         <th></th>
         <th>Zach</th>
@@ -23,6 +23,5 @@ tags: [Productivity, Workflow] # add tag
         <td>N/A</td>
     </tr>
 </table>
-![Panthers]({{site.baseurl}}/assets/img/nfl/carolina_panthers_thumb.png)
 
 #![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
