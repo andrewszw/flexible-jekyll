@@ -13,7 +13,7 @@ at the bottom of the table, and correct/incorrect picks will be updated at the c
         border: 1px solid black;
     }
     th, td {
-        padding: 100px;
+        padding: 20px;
         text-align: center;
     }
 </style>
