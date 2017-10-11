@@ -16,6 +16,12 @@ at the bottom of the table, and correct/incorrect picks will be updated at the c
         padding: 15px;
         text-align: center;
     }
+    .correct {
+        border: 1px solid #339933;
+    }
+    .incorrect {
+        border: 1px solid #ff0000;
+    }
 </style>
 <table class='test' align='center'>
     <tr>
@@ -27,8 +33,8 @@ at the bottom of the table, and correct/incorrect picks will be updated at the c
     </tr>
     <tr>
         <th>PHI @ CAR</th>
-        <th markdown="1">![Panthers]({{"/assets/img/nfl/carolina_panthers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Eagles]({{"/assets/img/nfl/philadelphia_eagles_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Panthers]({{"/assets/img/nfl/carolina_panthers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Eagles]({{"/assets/img/nfl/philadelphia_eagles_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
         <td>N/A</td>
         <td>N/A</td>
     </tr>
