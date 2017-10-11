@@ -9,18 +9,15 @@ tags: [Sports, NFL] # add tag
 Below, you will find Zach's, Tyler's, Chase's, and the Old Man's week 6 NFL game picks. Their weekly and overall records will be displayed
 at the bottom of the table, and correct/incorrect picks will be updated at the conclusion of each game.
 <style>
-    .test {
-        border: 1px solid black;
-    }
     th, td {
         padding: 15px;
         text-align: center;
     }
     .correct {
-        border: 1px solid #339933;
+        border: 3px solid #339933;
     }
     .incorrect {
-        border: 1px solid #ff0000;
+        border: 3px solid #ff0000;
     }
 </style>
 <table class='test' align='center'>
@@ -40,7 +37,7 @@ at the bottom of the table, and correct/incorrect picks will be updated at the c
     </tr>
     <tr>
         <th>CHI @ BAL</th>
-        <th markdown="1">![Ravens]({{"/assets/img/nfl/baltimore_ravens_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Ravens]({{"/assets/img/nfl/baltimore_ravens_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
         <th markdown="1">![Ravens]({{"/assets/img/nfl/baltimore_ravens_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
         <td>N/A</td>
         <td>N/A</td>
