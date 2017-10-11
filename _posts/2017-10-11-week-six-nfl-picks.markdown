@@ -6,6 +6,8 @@ description: Zach, Tyler, Chase, and the Old Man make their picks for week 6 gam
 img: # Add image post (optional)
 tags: [Productivity, Workflow] # add tag
 ---
+Below, you will find Zach's, Tyler's, Chase's, and the Old Man's week 6 NFL game picks. Their weekly and overall records will be displayed
+at the bottom of the table, and correct/incorrect picks will be updated at the conclusion of each game.
 <table class='test' align='center'>
     <tr>
         <th></th>
