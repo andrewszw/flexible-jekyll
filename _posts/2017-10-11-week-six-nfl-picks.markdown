@@ -12,6 +12,10 @@ at the bottom of the table, and correct/incorrect picks will be updated at the c
     .test {
         border: 1px solid black;
     }
+    th td {
+        padding: 5px;
+        text-align: center;
+    }
 </style>
 <table class='test' align='center'>
     <tr>
