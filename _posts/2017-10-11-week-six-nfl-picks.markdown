@@ -9,6 +9,9 @@ tags: [Sports, NFL] # add tag
 Below, you will find Zach's, Tyler's, Chase's, and the Old Man's week 6 NFL game picks. Their weekly and overall records will be displayed
 at the bottom of the table, and correct/incorrect picks will be updated at the conclusion of each game.
 <style>
+    .test {
+        width: 90%;
+    }
     th, td {
         padding: 15px;
         text-align: center;
