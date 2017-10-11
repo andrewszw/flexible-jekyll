@@ -6,8 +6,8 @@ description: Zach, Tyler, Chase, and the Old Man make their picks for week 6 gam
 img: # Add image post (optional)
 tags: [Productivity, Workflow] # add tag
 ---
-
-<table align='center' markdown='1'>
+<div markdown="1">
+<table align='center'>
     <tr>
         <th></th>
         <th>Zach</th>
@@ -17,11 +17,12 @@ tags: [Productivity, Workflow] # add tag
     </tr>
     <tr>
         <th>PHI @ CAR</th>
-        <td>{% markdown %} ![Panthers]({{"/assets/img/nfl/carolina_panthers_thumb.png" | absolute_url}}) {% endmarkdown %}</td>
+        <td>![Panthers]({{"/assets/img/nfl/carolina_panthers_thumb.png" | absolute_url}})</td>
         <td>![Eagles]({{site.baseurl}}/assets/img/nfl/philadelphia_eagles_thumb.png)</td>
         <td>N/A</td>
         <td>N/A</td>
     </tr>
 </table>
+</div>
 
 #![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
