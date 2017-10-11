@@ -1,3 +1,11 @@
+---
+---
+
+@import '{{ site.theme }}';
+.test {
+    border: 1px solid black;
+}
+
 @import 'normalize';
 @import 'syntax';
 @import 'variables';
@@ -19,9 +27,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-table .test {
-  border: 1px solid black;
-}
 
 h1 {
   font-weight: 400;
