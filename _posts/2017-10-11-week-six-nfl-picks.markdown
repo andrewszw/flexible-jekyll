@@ -7,7 +7,7 @@ img: # Add image post (optional)
 tags: [Productivity, Workflow] # add tag
 ---
 
-<table>
+<table align='center'>
     <tr>
         <th></th>
         <th>Zach</th>
