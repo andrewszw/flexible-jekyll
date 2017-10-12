@@ -32,7 +32,7 @@ at the bottom of the table, and correct/incorrect picks will be updated at the c
         <th>Old Man</th>
     </tr>
     <tr>
-        <th>PHI @ CAR <br /> 38 - 20</th>
+        <th>PHI @ CAR</th>
         <th markdown="1">![Panthers]({{"/assets/img/nfl/carolina_panthers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
         <th markdown="1">![Eagles]({{"/assets/img/nfl/philadelphia_eagles_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
         <th markdown="1">![Panthers]({{"/assets/img/nfl/carolina_panthers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
