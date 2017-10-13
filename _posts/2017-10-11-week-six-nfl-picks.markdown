@@ -33,10 +33,10 @@ at the bottom of the table, and correct/incorrect picks will be updated at the c
     </tr>
     <tr>
         <th>PHI @ CAR</th>
-        <th markdown="1">![Panthers]({{"/assets/img/nfl/carolina_panthers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Eagles]({{"/assets/img/nfl/philadelphia_eagles_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Panthers]({{"/assets/img/nfl/carolina_panthers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Panthers]({{"/assets/img/nfl/carolina_panthers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Panthers]({{"/assets/img/nfl/carolina_panthers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Eagles]({{"/assets/img/nfl/philadelphia_eagles_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Panthers]({{"/assets/img/nfl/carolina_panthers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Panthers]({{"/assets/img/nfl/carolina_panthers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
     </tr>
     <tr>
         <th>CHI @ BAL</th>
@@ -131,10 +131,10 @@ at the bottom of the table, and correct/incorrect picks will be updated at the c
     </tr>
     <tr>
         <th>Week 6</th>
-        <td>0-0</td>
-        <td>0-0</td>
-        <td>0-0</td>
-        <td>0-0</td>
+        <td>0-1</td>
+        <td>1-0</td>
+        <td>0-1</td>
+        <td>0-1</td>
     </tr>
     <tr>
         <th>Overall</th>
