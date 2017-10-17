@@ -40,94 +40,94 @@ at the bottom of the table, and correct/incorrect picks will be updated at the c
     </tr>
     <tr>
         <th>CHI @ BAL</th>
-        <th markdown="1">![Ravens]({{"/assets/img/nfl/baltimore_ravens_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Ravens]({{"/assets/img/nfl/baltimore_ravens_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Ravens]({{"/assets/img/nfl/baltimore_ravens_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Ravens]({{"/assets/img/nfl/baltimore_ravens_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Ravens]({{"/assets/img/nfl/baltimore_ravens_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Ravens]({{"/assets/img/nfl/baltimore_ravens_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Ravens]({{"/assets/img/nfl/baltimore_ravens_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Ravens]({{"/assets/img/nfl/baltimore_ravens_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
     </tr>
     <tr>
         <th>CLE @ HOU</th>
-        <th markdown="1">![Texans]({{"/assets/img/nfl/houston_texans_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Texans]({{"/assets/img/nfl/houston_texans_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Texans]({{"/assets/img/nfl/houston_texans_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Texans]({{"/assets/img/nfl/houston_texans_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Texans]({{"/assets/img/nfl/houston_texans_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Texans]({{"/assets/img/nfl/houston_texans_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Texans]({{"/assets/img/nfl/houston_texans_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Texans]({{"/assets/img/nfl/houston_texans_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
     </tr>
     <tr>
         <th>GB @ MIN</th>
-        <th markdown="1">![Packers]({{"/assets/img/nfl/greenbay_packers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Packers]({{"/assets/img/nfl/greenbay_packers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Packers]({{"/assets/img/nfl/greenbay_packers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Packers]({{"/assets/img/nfl/greenbay_packers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Packers]({{"/assets/img/nfl/greenbay_packers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Packers]({{"/assets/img/nfl/greenbay_packers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Packers]({{"/assets/img/nfl/greenbay_packers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Packers]({{"/assets/img/nfl/greenbay_packers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
     </tr>
     <tr>
         <th>DET @ NO</th>
-        <th markdown="1">![Lions]({{"/assets/img/nfl/detroit_lions_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Saints]({{"/assets/img/nfl/neworleans_saints_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Saints]({{"/assets/img/nfl/neworleans_saints_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Saints]({{"/assets/img/nfl/neworleans_saints_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Lions]({{"/assets/img/nfl/detroit_lions_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Saints]({{"/assets/img/nfl/neworleans_saints_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Saints]({{"/assets/img/nfl/neworleans_saints_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Saints]({{"/assets/img/nfl/neworleans_saints_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
     </tr>
     <tr>
         <th>MIA @ ATL</th>
-        <th markdown="1">![Falcons]({{"/assets/img/nfl/atlanta_falcons_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Falcons]({{"/assets/img/nfl/atlanta_falcons_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Falcons]({{"/assets/img/nfl/atlanta_falcons_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Falcons]({{"/assets/img/nfl/atlanta_falcons_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Falcons]({{"/assets/img/nfl/atlanta_falcons_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Falcons]({{"/assets/img/nfl/atlanta_falcons_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Falcons]({{"/assets/img/nfl/atlanta_falcons_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Falcons]({{"/assets/img/nfl/atlanta_falcons_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
     </tr>
     <tr>
         <th>NE @ NYJ</th>
-        <th markdown="1">![Patriots]({{"/assets/img/nfl/newengland_patriots_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Patriots]({{"/assets/img/nfl/newengland_patriots_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Patriots]({{"/assets/img/nfl/newengland_patriots_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Patriots]({{"/assets/img/nfl/newengland_patriots_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Patriots]({{"/assets/img/nfl/newengland_patriots_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Patriots]({{"/assets/img/nfl/newengland_patriots_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Patriots]({{"/assets/img/nfl/newengland_patriots_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Patriots]({{"/assets/img/nfl/newengland_patriots_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
     </tr>
     <tr>
         <th>SF @ WSH</th>
-        <th markdown="1">![Redskins]({{"/assets/img/nfl/washington_redskins_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Redskins]({{"/assets/img/nfl/washington_redskins_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Redskins]({{"/assets/img/nfl/washington_redskins_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Redskins]({{"/assets/img/nfl/washington_redskins_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Redskins]({{"/assets/img/nfl/washington_redskins_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Redskins]({{"/assets/img/nfl/washington_redskins_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Redskins]({{"/assets/img/nfl/washington_redskins_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Redskins]({{"/assets/img/nfl/washington_redskins_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
     </tr>
     <tr>
         <th>TB @ ARI</th>
-        <th markdown="1">![Buccaneers]({{"/assets/img/nfl/tampabay_buccaneers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Buccaneers]({{"/assets/img/nfl/tampabay_buccaneers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Buccaneers]({{"/assets/img/nfl/tampabay_buccaneers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Buccaneers]({{"/assets/img/nfl/tampabay_buccaneers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Buccaneers]({{"/assets/img/nfl/tampabay_buccaneers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Buccaneers]({{"/assets/img/nfl/tampabay_buccaneers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Buccaneers]({{"/assets/img/nfl/tampabay_buccaneers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Buccaneers]({{"/assets/img/nfl/tampabay_buccaneers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
     </tr>
     <tr>
         <th>LAR @ JAC</th>
-        <th markdown="1">![Jaguars]({{"/assets/img/nfl/jacksonville_jaguars_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Jaguars]({{"/assets/img/nfl/jacksonville_jaguars_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Jaguars]({{"/assets/img/nfl/jacksonville_jaguars_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Jaguars]({{"/assets/img/nfl/jacksonville_jaguars_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Jaguars]({{"/assets/img/nfl/jacksonville_jaguars_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Jaguars]({{"/assets/img/nfl/jacksonville_jaguars_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Jaguars]({{"/assets/img/nfl/jacksonville_jaguars_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Jaguars]({{"/assets/img/nfl/jacksonville_jaguars_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
     </tr>
     <tr>
         <th>PIT @ KC</th>
-        <th markdown="1">![Chiefs]({{"/assets/img/nfl/kansascity_chiefs_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Steelers]({{"/assets/img/nfl/pittsburgh_steelers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Chiefs]({{"/assets/img/nfl/kansascity_chiefs_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Chiefs]({{"/assets/img/nfl/kansascity_chiefs_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Chiefs]({{"/assets/img/nfl/kansascity_chiefs_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Steelers]({{"/assets/img/nfl/pittsburgh_steelers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Chiefs]({{"/assets/img/nfl/kansascity_chiefs_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Chiefs]({{"/assets/img/nfl/kansascity_chiefs_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
     </tr>
     <tr>
         <th>LAC @ OAK</th>
-        <th markdown="1">![Raiders]({{"/assets/img/nfl/oakland_raiders_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Raiders]({{"/assets/img/nfl/oakland_raiders_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Raiders]({{"/assets/img/nfl/oakland_raiders_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Raiders]({{"/assets/img/nfl/oakland_raiders_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Raiders]({{"/assets/img/nfl/oakland_raiders_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Raiders]({{"/assets/img/nfl/oakland_raiders_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Raiders]({{"/assets/img/nfl/oakland_raiders_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Raiders]({{"/assets/img/nfl/oakland_raiders_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
     </tr>
     <tr>
         <th>NYG @ DEN</th>
-        <th markdown="1">![Broncos]({{"/assets/img/nfl/denver_broncos_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Broncos]({{"/assets/img/nfl/denver_broncos_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Broncos]({{"/assets/img/nfl/denver_broncos_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Broncos]({{"/assets/img/nfl/denver_broncos_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Broncos]({{"/assets/img/nfl/denver_broncos_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Broncos]({{"/assets/img/nfl/denver_broncos_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Broncos]({{"/assets/img/nfl/denver_broncos_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Broncos]({{"/assets/img/nfl/denver_broncos_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
     </tr>
     <tr>
         <th>IND @ TEN</th>
-        <th markdown="1">![Titans]({{"/assets/img/nfl/tennessee_titans_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Titans]({{"/assets/img/nfl/tennessee_titans_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Titans]({{"/assets/img/nfl/tennessee_titans_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th markdown="1">![Titans]({{"/assets/img/nfl/tennessee_titans_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Titans]({{"/assets/img/nfl/tennessee_titans_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Titans]({{"/assets/img/nfl/tennessee_titans_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Titans]({{"/assets/img/nfl/tennessee_titans_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="correct" markdown="1">![Titans]({{"/assets/img/nfl/tennessee_titans_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
     </tr>
     <tr>
         <th>Week 6</th>
