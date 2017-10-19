@@ -36,7 +36,7 @@ at the bottom of the table, and correct/incorrect picks will be updated at the c
         <th></th>
         <th></th>
         <th></th>
-        <th></th>
+        <th markdown="1">![Chiefs]({{"/assets/img/nfl/kansascity_chiefs_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
     </tr>
     <tr>
         <th>BAL @ MIN</th>
