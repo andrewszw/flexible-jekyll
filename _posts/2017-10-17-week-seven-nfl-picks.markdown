@@ -119,7 +119,6 @@ at the bottom of the table, and correct/incorrect picks will be updated at the c
         <th>DEN @ LAC</th>
         <th></th>
         <th></th>
-        <th></th>
         <th markdown="1">![Broncos]({{"/assets/img/nfl/denver_broncos_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
         <th markdown="1">![Chargers]({{"/assets/img/nfl/losangeles_chargers_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
     </tr>
