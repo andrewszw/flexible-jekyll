@@ -33,7 +33,10 @@ at the bottom of the table, and correct/incorrect picks will be updated at the c
     </tr>
     <tr>
         <th>KC @ OAK</th>
-        <th class="incorrect" markdown="1">![Chiefs]({{"/assets/img/nfl/kansascity_chiefs_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
     </tr>
     <tr>
         <th>MIA @ BAL</th>
