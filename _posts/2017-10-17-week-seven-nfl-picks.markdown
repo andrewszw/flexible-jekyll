@@ -138,16 +138,16 @@ at the bottom of the table, and correct/incorrect picks will be updated at the c
     </tr>
     <tr>
         <th>Week 7</th>
-        <td>0-0</td>
-        <td>0-0</td>
-        <td>0-0</td>
-        <td>0-0</td>
+        <td>11-4</td>
+        <td>10-5</td>
+        <td>12-3</td>
+        <td>13-2</td>
     </tr>
     <tr>
         <th>Overall</th>
-        <td>51-40</td>
-        <td>54-37</td>
-        <td>55-36</td>
-        <td>49-42</td>
+        <td>62-44</td>
+        <td>64-42</td>
+        <td>67-39</td>
+        <td>62-44</td>
     </tr>
 </table>
