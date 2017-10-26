@@ -113,7 +113,7 @@ at the bottom of the table, and correct/incorrect picks will be updated at the c
         <th class="correct" markdown="1">![Seahawks]({{"/assets/img/nfl/seattle_seahawks_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
         <th class="correct" markdown="1">![Seahawks]({{"/assets/img/nfl/seattle_seahawks_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
         <th class="correct" markdown="1">![Seahawks]({{"/assets/img/nfl/seattle_seahawks_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
-        <th class="incorrect"markdown="1">![Giants]({{"/assets/img/nfl/newyork_giants_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
+        <th class="incorrect" markdown="1">![Giants]({{"/assets/img/nfl/newyork_giants_thumb.png" | absolute_url}}){:height="60px" width="60px"}</th>
     </tr>
     <tr>
         <th>DEN @ LAC</th>
